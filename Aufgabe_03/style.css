@@ -33,5 +33,5 @@ p {
     color: #c65f0f
 }
 #Letzte {
-    position: static
+    position: relative;
 }
