@@ -11,12 +11,18 @@ p {
     width: 88%
 }
 img {
-    height: 90%;
-    width: 90%;
+    height: 69%;
+    width: 69%;
     border: #000000;
     border-radius: 1.5em
 }
 article {
+    font-size: 1.2em;
     background-color: #1277aa;
     width: 92%
+}
+h8 {
+    font-size: 5em;
+    font-family: 'Courier New', 'Courier', monospace;
+    color: #FFFFFF
 }
