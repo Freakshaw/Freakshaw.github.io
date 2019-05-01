@@ -32,7 +32,6 @@ aside {
     float: right;
     background-color:#ffffff;
     width: 25%;
-    text-align: right;
     overflow: auto
 }
 
@@ -68,7 +67,8 @@ main {
     float: left;
     background-color: #000000;
     width: 33%;
-    margin: 0em;
+    margin: 10px;
+    padding: 5px;
     max-height: 25em;
     overflow: auto
 }
