@@ -72,9 +72,6 @@ main {
     max-height: 25em;
     overflow: auto
 }
-    .Meme:nth-child(3n+0){
-    clear: left
-    }
 
 article {
     font-size: 2em;
