@@ -64,7 +64,6 @@ main {
 }
 
 .Meme {
-    float: left;
     background-color: #000000;
     width: 33%;
     margin: 10px;
@@ -77,9 +76,9 @@ main {
     }
 
 article {
-    font-size: 1em;
+    font-size: 2em;
     background-color: #150853;
-    width: 33%;
+    width: 100%;
     text-align: center
 }
 
