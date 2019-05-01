@@ -66,9 +66,6 @@ aside li {
     overflow: auto;
     border-radius: 5px;
 }
-    .Meme:nth-child(4n+1){
-        clear: left;
-    }
 
 img{
     display: block;
@@ -82,7 +79,7 @@ img{
 article {
     font-size: 1.5em;
     background-color: #326781;
-    width: 92%
+    width: 33%
 }
 
 p {
