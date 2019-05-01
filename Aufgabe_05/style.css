@@ -42,7 +42,7 @@ aside {
 }
 
 nav li {
-    font-size: 1.75em;
+    font-size: 3em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: #ff0000;
     background-color: #FFFFFF;
@@ -60,7 +60,7 @@ aside li {
 .Meme {
     float: left;
     background-color: #0d1013;
-    width: 33%;
+    width: 75%;
     margin: 0em;
     max-height: 23em;
     overflow: auto;
@@ -89,4 +89,10 @@ p {
     font-size: 3em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: #c65f0f
+}
+
+footer {
+	background-color:#aaaaaa;
+	width: 100%;
+	height: 15em;
 }
