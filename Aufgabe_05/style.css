@@ -73,7 +73,7 @@ main {
     overflow: auto
 }
     .Meme:nth-child(3n+0){
-    clear: right
+    clear: left
     }
 
 article {
