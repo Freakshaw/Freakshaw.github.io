@@ -58,13 +58,12 @@ aside li {
 }
 
 .Meme {
-    float: left;
+    position: relative;
     background-color: #0d1013;
-    width: 75%;
+    width: 33%;
     margin: 0em;
     max-height: 23em;
     overflow: auto;
-    border-radius: 5px;
 }
 
 img{
