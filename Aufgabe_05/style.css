@@ -77,9 +77,9 @@ main {
     }
 
 article {
-    font-size: 1.5em;
-    background-color: #326781;
-    width: 100%;
+    font-size: 1em;
+    background-color: #150853;
+    width: 33%;
     text-align: center
 }
 
@@ -88,8 +88,8 @@ img{
     margin:5%;
     width: 100%;
     border-radius: 5px; 
-    max-height: 500px;
-    max-width: 500px
+    max-height: 250px;
+    max-width: 250px
 }
 
 p {
