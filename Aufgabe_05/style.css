@@ -32,7 +32,8 @@ aside {
     float: right;
     background-color:#ffffff;
     width: 25%;
-    overflow: auto
+    overflow: auto;
+    text-align: center
 }
 
 aside li {
@@ -66,7 +67,7 @@ main {
 .Meme {
     float: left;
     background-color: #000000;
-    width: 33%;
+    width: 100%;
     margin: 10px;
     padding: 5px;
     max-height: 25em;
