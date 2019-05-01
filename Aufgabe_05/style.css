@@ -1,0 +1,92 @@
+body {
+    margin:0;
+	padding:0;
+	font-family: "Lato", "Helvetica", "Arial", sans-serif;
+    background-color: #000000
+}
+
+header {
+    background-color: #aaaaaa;
+    width: 100%;
+    height: 15em
+}
+
+main {
+    background-color:#aaaaaa;
+	width: 75%;
+	min-height: 80em;
+	float:left;	
+}
+
+aside {
+    position: relative;
+    background-color:#ffffff;
+    float: right;
+    width: 25%;
+    clear: left;
+    min-height: 40em;
+    max-height: 40em;
+    overflow: auto;
+}
+
+.Überschrift {
+    font-size: 5em;
+    font-family: 'Courier New', 'Courier', monospace;
+    color: #333333
+}
+
+.Ober-Überschrift {
+    font-size: 10em;
+    font-family: 'Courier New', 'Courier', monospace;
+    color: #333333
+}
+
+nav li {
+    font-size: 1.75em;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: #ff0000;
+    background-color: #FFFFFF;
+    float: left;
+    width: 100%;
+}
+
+aside li {
+    font-size: 1.75em;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: #ff00ee;
+    background-color: #ab990f;
+}
+
+.Meme {
+    float: left;
+    background-color: #0d1013;
+    width: 33%;
+    margin: 0em;
+    max-height: 23em;
+    overflow: auto;
+    border-radius: 5px;
+}
+    .Meme:nth-child(4n+1){
+        clear: left;
+    }
+
+img{
+    display: block;
+    margin:5%;
+    width: 100%;
+    border-radius: 5px; 
+    max-height: 500px;
+    max-width: 500px
+}
+
+article {
+    font-size: 1.5em;
+    background-color: #326781;
+    width: 92%
+}
+
+p {
+    font-size: 3em;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color: #c65f0f
+}
