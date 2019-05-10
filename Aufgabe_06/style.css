@@ -120,7 +120,6 @@ img{
     border-radius: 5px; 
     max-height: 250px;
     max-width: 250px;
-    transition-property: all;
     transition-duration: 1s
 }
 
