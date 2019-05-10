@@ -20,8 +20,8 @@ header {
     height: 15em
 }
 
-ul {
-    list-style: hiragana;
+nav ul {
+    list-style: none;
     height: 5em;
     font-size: 3em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
