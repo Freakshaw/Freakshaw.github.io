@@ -29,7 +29,7 @@ nav li {
 
 aside {
     float: right;
-    position: fixed;
+    position: absolute;
     background-color:#ffffff;
     width: 25%;
     text-align: center
