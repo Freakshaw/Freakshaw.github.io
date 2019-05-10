@@ -19,6 +19,22 @@ header {
     height: 15em
 }
 
+div {
+    color: #ff0000;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #03043d;
+    font-size: 3em;
+    padding: 1em
+}
+
+nav:hover {
+    background-color: #13769f;
+}
+nav:hover ul {
+    display: block
+}
+
 nav ul {
     list-style: none;
     background-color: #03043d;
