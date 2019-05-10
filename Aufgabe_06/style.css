@@ -8,7 +8,7 @@
 }
 
 body {
-    margin: 2.2em;
+    margin: 2em;
 	padding: 1em;
 	font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #ffffff
@@ -21,10 +21,10 @@ header {
 
 div {
     color: #ff0000;
-    text-align: center;
+    width: 20%;
+    text-align: left;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #03043d;
-    font-size: 3em;
+    font-size: 1.5em;
     padding: 1em
 }
 
@@ -36,35 +36,32 @@ nav:hover ul {
 }
 
 nav ul {
-    display: none;
-    position: relative;
-    text-align: center;
+    display: none
 }
 
 nav ul li {
     display: block;
-    background-color: #13769f ;
+    background-color: #13769f;
     font-size: 1.5em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    text-align: center;
-    color: #ff0000;
+    color: #ff0000
 }
 
 nav ul li:hover {
-    background-color: #03043d;
-    
+    background-color: #03043d
 }
 
 aside {
     float: right;
     position: relative;
     width: 25%;
-    text-align: center
+    text-align: center;
+    background-color: #aaaaaa;
+    font-size: 1.5em
 }
 
 aside ul {
-    list-style: disc;
-    font-size: 1.75em;
+    font-size: 1.5em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: #ff00ee;
     text-align: center
@@ -74,7 +71,7 @@ aside ul {
     font-size: 5em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: #ff0000;
-    text-align: left
+    text-align: center;
 }
 
 .Überschrift {
@@ -87,12 +84,12 @@ aside ul {
 .Sideartikel {
     font-size: 1.5em;
     width: 100%;
-    background-color: #ffffff
+    background-color: #aaaaaa
 }
 
 main {
 	width: 75%;
-    float:left;
+    float: left;
     text-align: left	
 }
 
@@ -101,9 +98,14 @@ main {
     width: 30%;
     margin: 10px;
     padding: 5px;
-    max-height: 25em;
+    height: 30em;
     overflow: auto;
-    display: inline-block
+    display: inline-block;
+}
+
+.Meme:hover {
+    width: 550px;
+    height: 550px
 }
 
 article {
@@ -118,15 +120,14 @@ img{
     margin:5%;
     width: 100%;
     border-radius: 5px; 
-    max-height: 250px;
-    max-width: 250px;
-    transition-property: width, height;
+    height: 250px;
+    width: 250px;
     transition-duration: 1s
 }
 
 img:hover{
-    width: 100%;
-    height: 100%
+    width: 500px;
+    height: 500px
 }
 
 p {
