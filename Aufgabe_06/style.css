@@ -44,7 +44,7 @@ nav ul {
 
 nav ul li {
     display: inline;
-    background-color: #03043d;
+    background-color: #13769f ;
     font-size: 1.5em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     text-align: center;
@@ -52,7 +52,8 @@ nav ul li {
 }
 
 nav ul li:hover {
-    background-color: #13769f;
+    background-color: #03043d;
+    
 }
 
 aside {
