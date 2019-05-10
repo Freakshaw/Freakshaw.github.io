@@ -7,8 +7,9 @@
 }
 
 body {
-    margin:0;
-	padding:0;
+    position: top;
+    margin: 3em;
+	padding: 1em;
 	font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #ffffff
 }
