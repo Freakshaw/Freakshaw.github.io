@@ -37,13 +37,13 @@ nav:hover ul {
 
 nav ul {
     display: none;
-    position: absolute;
+    position: relative;
     width: 50%;
     text-align: center;
 }
 
 nav ul li {
-    display: block;
+    display: inline;
     background-color: #03043d;
     font-size: 1.5em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
