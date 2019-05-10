@@ -14,25 +14,25 @@ body {
 }
 
 header {
-    background-color: #aaaaaa;
+    background-color: #ffffff;
     width: 100%;
     height: 15em
 }
 
 nav {
-    list-style: none;
+    list-style: hiragana;
     height: 5em;
     font-size: 3em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: #ff0000;
-    background-color: #aaaaaa;
-    text-align: center;
+    background-color: #ffffff;
+    text-align: left;
 }
 
 aside {
     float: right;
     position: relative;
-    background-color:#aaaaaa;
+    background-color:#ffffff;
     width: 25%;
     text-align: center
 }
@@ -42,7 +42,7 @@ aside ul {
     font-size: 1.75em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: #ff00ee;
-    background-color: #aaaaaa;
+    background-color: #ffffff;
     text-align: center
 }
 
@@ -55,12 +55,12 @@ aside ul {
 
 .Sideartikel {
     font-size: 1.5em;
-    background-color: #aaaaaa;
+    background-color: #ffffff;
     width: 100%
 }
 
 main {
-    background-color:#aaaaaa;
+    background-color:#ffffff;
 	width: 75%;
     float:left;
     text-align: left	
