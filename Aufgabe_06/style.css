@@ -30,6 +30,8 @@ nav ul {
 nav li {
     display: inline;
     font-size: 3em;
+    margin: 5%;
+    padding: 1em;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: #ff0000;
 }
