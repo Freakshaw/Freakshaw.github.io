@@ -120,7 +120,8 @@ img{
     border-radius: 5px; 
     max-height: 250px;
     max-width: 250px;
-    transition: width 1s, height 1s;
+    transition-property: width, height;
+    transition-duration: 1s
 }
 
 img:hover{
